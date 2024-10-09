@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Postman-Ui", "Postman-Ui\Postman-Ui.csproj", "{4B72E8FD-4D8B-4839-BB10-7D2A68660324}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Postman-Library", "Postman-Library\Postman-Library.csproj", "{B730B771-E01B-45A8-83F1-63F11E4FBB0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B72E8FD-4D8B-4839-BB10-7D2A68660324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B72E8FD-4D8B-4839-BB10-7D2A68660324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B72E8FD-4D8B-4839-BB10-7D2A68660324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B72E8FD-4D8B-4839-BB10-7D2A68660324}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B730B771-E01B-45A8-83F1-63F11E4FBB0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B730B771-E01B-45A8-83F1-63F11E4FBB0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B730B771-E01B-45A8-83F1-63F11E4FBB0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B730B771-E01B-45A8-83F1-63F11E4FBB0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A1EE32E-3AFD-498C-BCBA-DFD342D21E98}
+	EndGlobalSection
+EndGlobal
