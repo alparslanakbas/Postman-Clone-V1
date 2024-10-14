@@ -1,4 +1,6 @@
-﻿using System.Text.Json;
+﻿using System.Text;
+using System.Text.Json;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace Postman_Library
 {
@@ -6,30 +8,68 @@ namespace Postman_Library
     {
         private readonly HttpClient _httpClient = new();
 
-        public async Task<string> CallApiAsync(string url, bool formatOutput = true, HttpAction action = HttpAction.GET)
+        public async Task<(string jsonResponse, bool isDownloadable)>
+            CallApiAsync
+            (
+                string url,
+                string content,
+                HttpAction action = HttpAction.GET,
+                bool formatOutput = true
+            )
         {
-            var response = await _httpClient.GetAsync(url);
+            StringContent stringContent = new(content, Encoding.UTF8, "application/json");
+            return await CallApiAsync(url, new StringContent(content), action, formatOutput);
+        }
+
+            #region CallApi
+            public async Task<(string jsonResponse, bool isDownloadable)>
+            CallApiAsync
+            (
+                string url,
+                HttpContent? content = null,
+                HttpAction action = HttpAction.GET,
+                bool formatOutput = true
+            )
+        {
+            HttpResponseMessage? response;
+
+            switch (action)
+            {
+                case HttpAction.GET:
+                    response = await _httpClient.GetAsync(url);
+                    break;
+                case HttpAction.POST:
+                    response = await _httpClient.PostAsync(url, content);
+                    break;
+                default:
+                    throw new ArgumentOutOfRangeException(nameof(action), action,null);
+            }
 
             if (response.IsSuccessStatusCode)
             {
                 string jsonResponse = await response.Content.ReadAsStringAsync();
+
+                var jsonElement = JsonSerializer.Deserialize<JsonElement>(jsonResponse);
+
+                // check the json datas array or object
+                bool isDownloadable = jsonElement.ValueKind == JsonValueKind.Array || jsonElement.ValueKind == JsonValueKind.Object;
+
                 if (formatOutput)
                 {
-                    var jsonElement = JsonSerializer.Deserialize<JsonElement>(jsonResponse);
                     string json = JsonSerializer.Serialize(jsonElement, new JsonSerializerOptions { WriteIndented = true });
-
-                    return json;
-
+                    return (json, isDownloadable);
                 }
-                return jsonResponse;
-            }
 
+                return (jsonResponse, isDownloadable);
+            }
             else
             {
-                return $"Hata: {response.StatusCode}";
+                return ($"Error: {response.StatusCode}", false);
             }
         }
+        #endregion
 
+        #region Check Url Valid 
         public bool IsValidUrl(string url)
         {
             if (string.IsNullOrWhiteSpace(url))
@@ -43,6 +83,7 @@ namespace Postman_Library
 
             return output;
         }
+        #endregion
 
     }
 }

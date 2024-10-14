@@ -16,7 +16,10 @@
       },
       "Postman-Library/1.0.0": {
         "runtime": {
-          "Postman-Library.dll": {}
+          "Postman-Library.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
