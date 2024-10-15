@@ -18,7 +18,7 @@ namespace Postman_Library
             )
         {
             StringContent stringContent = new(content, Encoding.UTF8, "application/json");
-            return await CallApiAsync(url, new StringContent(content), action, formatOutput);
+            return await CallApiAsync(url,stringContent, action, formatOutput);
         }
 
             #region CallApi

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Postman-Library")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ea89ec713a39146cfaceb7854bb68fd1bea8f4a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7a9a5ae6d1838ab4f3e6b614b8c65d0ac1f75b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Postman-Library")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Postman-Library")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

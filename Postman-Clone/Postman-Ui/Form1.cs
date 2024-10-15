@@ -53,8 +53,6 @@ namespace Postman_Ui
                 await progressTask;
                 var (jsonResponse, isDownloadable) = await _apiAccess.CallApiAsync(apiText.Text, bodyTextBox.Text, action);
 
-                //todo responseden sadece id dönüyor content dönmüyor kontrol edilmesi gerek
-
                 resultText.Text = jsonResponse;
                 downloadButton.Visible = isDownloadable;
                 copyButton.Visible = isDownloadable;
