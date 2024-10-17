@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Postman-Ui")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7a9a5ae6d1838ab4f3e6b614b8c65d0ac1f75b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40da845897429f3a24f40e532fe4219e477e3b86")]
 [assembly: System.Reflection.AssemblyProductAttribute("Postman-Ui")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Postman-Ui")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

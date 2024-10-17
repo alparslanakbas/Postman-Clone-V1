@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\legol\\OneDrive\\Masa\u00FCst\u00FC\\postman-clone\\Postman-Clone-V1\\Postman-Clone\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E318C9A-E74C-4425-86F5-B490DEE050E4}|Postman-Ui\\Postman-Ui.csproj|c:\\users\\legol\\onedrive\\masa\u00FCst\u00FC\\postman-clone\\postman-clone-v1\\postman-clone\\postman-ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E318C9A-E74C-4425-86F5-B490DEE050E4}|Postman-Ui\\Postman-Ui.csproj|solutionrelative:postman-ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E271D523-9B70-44FD-B038-2187BD91E30B}|Postman-Library\\Postman-Library.csproj|c:\\users\\legol\\onedrive\\masa\u00FCst\u00FC\\postman-clone\\postman-clone-v1\\postman-clone\\postman-library\\apiaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E271D523-9B70-44FD-B038-2187BD91E30B}|Postman-Library\\Postman-Library.csproj|solutionrelative:postman-library\\apiaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E271D523-9B70-44FD-B038-2187BD91E30B}|Postman-Library\\Postman-Library.csproj|c:\\users\\legol\\onedrive\\masa\u00FCst\u00FC\\postman-clone\\postman-clone-v1\\postman-clone\\postman-library\\iapiaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E271D523-9B70-44FD-B038-2187BD91E30B}|Postman-Library\\Postman-Library.csproj|solutionrelative:postman-library\\iapiaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E271D523-9B70-44FD-B038-2187BD91E30B}|Postman-Library\\Postman-Library.csproj|c:\\users\\legol\\onedrive\\masa\u00FCst\u00FC\\postman-clone\\postman-clone-v1\\postman-clone\\postman-library\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E271D523-9B70-44FD-B038-2187BD91E30B}|Postman-Library\\Postman-Library.csproj|solutionrelative:postman-library\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E318C9A-E74C-4425-86F5-B490DEE050E4}|Postman-Ui\\Postman-Ui.csproj|C:\\Users\\legol\\OneDrive\\Masa\u00FCst\u00FC\\postman-clone\\Postman-Clone-V1\\Postman-Clone\\postman-ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0E318C9A-E74C-4425-86F5-B490DEE050E4}|Postman-Ui\\Postman-Ui.csproj|solutionrelative:postman-ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E318C9A-E74C-4425-86F5-B490DEE050E4}|Postman-Ui\\Postman-Ui.csproj|c:\\users\\legol\\onedrive\\masa\u00FCst\u00FC\\postman-clone\\postman-clone-v1\\postman-clone\\postman-ui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E318C9A-E74C-4425-86F5-B490DEE050E4}|Postman-Ui\\Postman-Ui.csproj|solutionrelative:postman-ui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E318C9A-E74C-4425-86F5-B490DEE050E4}|Postman-Ui\\Postman-Ui.csproj|c:\\users\\legol\\onedrive\\masa\u00FCst\u00FC\\postman-clone\\postman-clone-v1\\postman-clone\\postman-ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E318C9A-E74C-4425-86F5-B490DEE050E4}|Postman-Ui\\Postman-Ui.csproj|solutionrelative:postman-ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E271D523-9B70-44FD-B038-2187BD91E30B}|Postman-Library\\Postman-Library.csproj|c:\\users\\legol\\onedrive\\masa\u00FCst\u00FC\\postman-clone\\postman-clone-v1\\postman-clone\\postman-library\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E271D523-9B70-44FD-B038-2187BD91E30B}|Postman-Library\\Postman-Library.csproj|solutionrelative:postman-library\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E271D523-9B70-44FD-B038-2187BD91E30B}|Postman-Library\\Postman-Library.csproj|c:\\users\\legol\\onedrive\\masa\u00FCst\u00FC\\postman-clone\\postman-clone-v1\\postman-clone\\postman-library\\iapiaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E271D523-9B70-44FD-B038-2187BD91E30B}|Postman-Library\\Postman-Library.csproj|solutionrelative:postman-library\\iapiaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E318C9A-E74C-4425-86F5-B490DEE050E4}|Postman-Ui\\Postman-Ui.csproj|c:\\users\\legol\\onedrive\\masa\u00FCst\u00FC\\postman-clone\\postman-clone-v1\\postman-clone\\postman-ui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E318C9A-E74C-4425-86F5-B490DEE050E4}|Postman-Ui\\Postman-Ui.csproj|solutionrelative:postman-ui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\legol\\OneDrive\\Masa\u00FCst\u00FC\\postman-clone\\Postman-Clone-V1\\Postman-Clone\\Postman-Ui\\Form1.cs",
               "RelativeDocumentMoniker": "Postman-Ui\\Form1.cs",
@@ -59,32 +59,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\legol\\OneDrive\\Masa\u00FCst\u00FC\\postman-clone\\Postman-Clone-V1\\Postman-Clone\\Postman-Ui\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Postman-Ui\\Form1.Designer.cs",
               "ToolTip": "C:\\Users\\legol\\OneDrive\\Masa\u00FCst\u00FC\\postman-clone\\Postman-Clone-V1\\Postman-Clone\\Postman-Ui\\Form1.Designer.cs",
               "RelativeToolTip": "Postman-Ui\\Form1.Designer.cs",
-              "ViewState": "AgIAAOwAAAAAAAAAAAAAAPEAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAIBJwBYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-14T20:08:05.167Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Enums.cs",
               "DocumentMoniker": "C:\\Users\\legol\\OneDrive\\Masa\u00FCst\u00FC\\postman-clone\\Postman-Clone-V1\\Postman-Clone\\Postman-Library\\Enums.cs",
               "RelativeDocumentMoniker": "Postman-Library\\Enums.cs",
               "ToolTip": "C:\\Users\\legol\\OneDrive\\Masa\u00FCst\u00FC\\postman-clone\\Postman-Clone-V1\\Postman-Clone\\Postman-Library\\Enums.cs",
               "RelativeToolTip": "Postman-Library\\Enums.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T19:56:59.325Z"
+              "WhenOpened": "2024-10-14T19:56:59.325Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "IApiAccess.cs",
               "DocumentMoniker": "C:\\Users\\legol\\OneDrive\\Masa\u00FCst\u00FC\\postman-clone\\Postman-Clone-V1\\Postman-Clone\\Postman-Library\\IApiAccess.cs",
               "RelativeDocumentMoniker": "Postman-Library\\IApiAccess.cs",
@@ -96,20 +97,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ApiAccess.cs",
               "DocumentMoniker": "C:\\Users\\legol\\OneDrive\\Masa\u00FCst\u00FC\\postman-clone\\Postman-Clone-V1\\Postman-Clone\\Postman-Library\\ApiAccess.cs",
               "RelativeDocumentMoniker": "Postman-Library\\ApiAccess.cs",
               "ToolTip": "C:\\Users\\legol\\OneDrive\\Masa\u00FCst\u00FC\\postman-clone\\Postman-Clone-V1\\Postman-Clone\\Postman-Library\\ApiAccess.cs",
               "RelativeToolTip": "Postman-Library\\ApiAccess.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-14T15:23:32.279Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\legol\\OneDrive\\Masa\u00FCst\u00FC\\postman-clone\\Postman-Clone-V1\\Postman-Clone\\Postman-Ui\\Form1.cs",
               "RelativeDocumentMoniker": "Postman-Ui\\Form1.cs",

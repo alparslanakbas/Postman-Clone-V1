@@ -144,7 +144,7 @@
             httpsBox.DropDownStyle = ComboBoxStyle.DropDownList;
             httpsBox.FlatStyle = FlatStyle.System;
             httpsBox.FormattingEnabled = true;
-            httpsBox.Items.AddRange(new object[] { "GET", "POST" });
+            httpsBox.Items.AddRange(new object[] { "GET", "POST", "PUT", "PATCH", "DELETE" });
             httpsBox.Location = new Point(6, 37);
             httpsBox.Name = "httpsBox";
             httpsBox.Size = new Size(121, 23);
